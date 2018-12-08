@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 une simple modification dans ce fichier
 j insere une modification 
+=======
+une modification
+>>>>>>> 5232b75d93c99a732327ec683d485aa54e713c70
